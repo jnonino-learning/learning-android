@@ -1,0 +1,8 @@
+# @title Android Build - Disable force error on including native libraries
+# @description Android build
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Tue Jul 01 15:49:29 ART 2014
+/instance/com.android.ide.eclipse.adt/com.android.ide.eclipse.adt.forceErrorNativeLibInJar=false
+file_export_version=3.0

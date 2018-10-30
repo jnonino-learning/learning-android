@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background_color">#000000</color>
+	
+	<color name="dialog_color">#3f51b5</color> 
+	<color name="dialog_text_color">#f1faf7</color>
+    
+    <color name="block_one_one_start_color">#6a77b7</color>
+    <color name="block_one_one_end_color">#ffffb7</color>
+    
+    <color name="block_one_two_start_color">#d64f97</color>
+    <color name="block_one_two_end_color">#ffe597</color>
+    
+    <color name="block_two_one_start_color">#a31d21</color>
+    <color name="block_two_one_end_color">#ffb321</color>
+    
+    <color name="block_two_two_start_color">#e6e6e6</color>
+    <color name="block_two_two_end_color">#e6e6e6</color>
+    
+    <color name="block_two_three_start_color">#273a97</color>
+    <color name="block_two_three_end_color">#bdd097</color>
+    
+    <color name="seek_bar_color">#ff4081</color>
+</resources>

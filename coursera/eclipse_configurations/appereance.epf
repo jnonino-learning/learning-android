@@ -1,0 +1,8 @@
+# @title Eclipse Appeareance
+# @description Chosing Windows 7 Theme
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Nov 20 14:58:32 ART 2014
+file_export_version=3.0
+/instance/org.eclipse.e4.ui.css.swt.theme/themeid=org.eclipse.e4.ui.css.theme.e4_default6.1

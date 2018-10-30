@@ -1,0 +1,11 @@
+# @title AndroidLogcatColors
+# @description Logcat Colors
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Aug 22 11:06:48 ART 2014
+file_export_version=3.0
+/instance/com.android.ide.eclipse.ddms/logcat.msg.color.info=0,128,64
+/instance/com.android.ide.eclipse.ddms/logcat.msg.color.debug=0,0,255
+/instance/com.android.ide.eclipse.ddms/logcat.msg.color.warn=255,128,0
+/instance/com.android.ide.eclipse.ddms/logcat.msg.color.assert=255,0,0
